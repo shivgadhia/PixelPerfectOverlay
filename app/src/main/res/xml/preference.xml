@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="filePicker"
+        android:summary="@string/preference_file_picker_summary"
+        android:title="@string/preference_file_picker_title" />
+    <Preference
+        android:enabled="false"
+        android:key="deviceMetrics"
+        android:title="@string/preference_device_metrics_title" />
+
+</PreferenceScreen>

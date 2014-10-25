@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pixel Perfect Overlay</string>
+
+    <string name="preference_file_picker_title">Pick a screenshot</string>
+    <string name="preference_file_picker_summary">Which includes Navigation and Status bars.</string>
+
+    <string name="preference_device_metrics_title">Device metrics</string>
+    <string name="notification_content">Tap here to clear the overlay</string>
+</resources>

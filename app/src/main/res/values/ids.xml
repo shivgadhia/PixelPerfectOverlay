@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="request_code_pending_intent" type="id" />
+    <item name="notification" type="id" />
+    <item name="request_code_file_picker" type="id" />
+</resources>
