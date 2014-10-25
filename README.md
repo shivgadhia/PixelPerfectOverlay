@@ -23,6 +23,9 @@ When attempts to educate designers and product owners about the invalidity of tr
 and you decide it's easier to just bite the bullet and apply non-[48dp Rhythm](http://developer.android.com/design/style/metrics-grids.html#48dp-rhythm) paddings and margins, 
 here is a tool that might help!
 
+### Icon:
+![](https://github.com/shivgadhia/PixelPerfectOverlay/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png) Built with [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
+
 ### Inspiration:
 [GridWichterle - Google Play](https://play.google.com/store/apps/details?id=eu.inmite.android.gridwichterle)
 
