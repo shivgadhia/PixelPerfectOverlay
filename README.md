@@ -30,3 +30,11 @@ here is a tool that might help!
 [GridWichterle - Google Play](https://play.google.com/store/apps/details?id=eu.inmite.android.gridwichterle)
 
 [GridWichterle - Github](https://github.com/inmite/android-grid-wichterle)
+
+### Download it:
+<a href="https://play.google.com/store/apps/details?id=com.shivgadhia.android.pixelperfectoverlay.free">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+</a>
+
+This is the free version - where the overlay stays for 30 seconds before dismissing itself. (I wanted to play around with gradle flavours)
